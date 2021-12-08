@@ -1,5 +1,5 @@
 NAME = mgear
-VERSION = 4.0.4.0
+VERSION = 4.0.4.1
 ITERATION = 1
 PACKAGE = $(NAME)$(VERSION)
 SUMMARY = mGear rig for Maya, Storm version
